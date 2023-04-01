@@ -82,7 +82,7 @@
 				display: flex;
 				align-items: center;
 				border-radius: 10px;
-				background: #e5e9f2;
+				background: #fff;
 				.info{
 					padding-left: 40rpx;
 					display: flex;
@@ -93,11 +93,10 @@
 			.layout_buy {
 				height:120rpx;
 		        border-radius: 10px;
-				background: #e5e9f2;
-				padding: 0rpx 30rpx;
+				background: #fff;
+				padding: 10rpx 30rpx;
 				.grid-text {
 					font-size: 12px;
-					color: #909399;
 					padding: 10rpx 0rpx 10rpx 0rpx;
 					/* #ifndef APP-PLUS */
 					box-sizing: border-box;
@@ -105,10 +104,10 @@
 				}
 		    }
 			.layout_set{
-				height: 300rpx;
+				height: 310rpx;
 				border-radius: 10px;
-				background: #e5e9f2;
-				padding: 20rpx;
+				background: #fff;
+				padding: 30rpx;
 			}
 			
 		}
